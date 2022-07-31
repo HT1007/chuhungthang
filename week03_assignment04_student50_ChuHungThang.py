@@ -1,6 +1,6 @@
 from unittest import result
 
-
+#tim so fibonacci thu n
 def fibonacci(n):
     if n == 0 or n == 1:
         return n
